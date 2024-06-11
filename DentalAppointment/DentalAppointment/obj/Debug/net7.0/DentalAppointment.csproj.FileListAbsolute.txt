@@ -1,0 +1,161 @@
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.AssemblyReference.cache
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.AssemblyInfoInputs.cache
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.AssemblyInfo.cs
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\appsettings.json
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.exe
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.deps.json
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.runtimeconfig.json
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.pdb
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.DentalAppointment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalAppointment.props
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalAppointment.props
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalAppointment.props
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\scopedcss\bundle\DentalAppointment.styles.css
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.CopyComplete
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\refint\DentalAppointment.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.pdb
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.genruntimeconfig.cache
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\obj\Debug\net7.0\ref\DentalAppointment.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jon Fetahi\source\repos\DentalAppointment\DentalAppointment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\appsettings.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.exe
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.deps.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.runtimeconfig.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.pdb
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.AssemblyReference.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.AssemblyInfoInputs.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.AssemblyInfo.cs
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.DentalAppointment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalAppointment.props
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalAppointment.props
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalAppointment.props
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\scopedcss\bundle\DentalAppointment.styles.css
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.CopyComplete
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\refint\DentalAppointment.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.pdb
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.genruntimeconfig.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assignment\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\ref\DentalAppointment.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.AssemblyReference.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.AssemblyInfoInputs.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.AssemblyInfo.cs
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.CoreCompileInputs.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\refint\DentalAppointment.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.pdb
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\appsettings.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.exe
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.deps.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.runtimeconfig.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\DentalAppointment.pdb
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.DentalAppointment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.build.DentalAppointment.props
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DentalAppointment.props
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DentalAppointment.props
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\scopedcss\bundle\DentalAppointment.styles.css
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.csproj.CopyComplete
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\DentalAppointment.genruntimeconfig.cache
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\obj\Debug\net7.0\ref\DentalAppointment.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\xunit.abstractions.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\xunit.assert.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\xunit.core.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\xunit.execution.dotnet.dll
+C:\Users\Jon Fetahi\Desktop\New folder\Semester #8\Service Oriented Architectures (SOA)\Assingment2\DentalAppointment\DentalAppointment\DentalAppointment\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll

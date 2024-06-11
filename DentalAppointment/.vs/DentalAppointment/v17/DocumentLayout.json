@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\UpgradeLog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UpgradeLog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|solutionrelative:dentalappointment.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DentalAppointment.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DentalAppointment\\DentalAppointment.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\dentalappointment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\dentalappointment.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment.tests\\controllertests\\appointmentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|solutionrelative:dentalappointment.tests\\controllertests\\appointmentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\dtos\\authenticationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\dtos\\authenticationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\dtos\\authenticationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\dtos\\authenticationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment.tests\\repositorytests\\appointmentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|solutionrelative:dentalappointment.tests\\repositorytests\\appointmentrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment.tests\\controllertests\\appointmentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|solutionrelative:dentalappointment.tests\\controllertests\\appointmentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment.tests\\servicetests\\appointmentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72F026A-E7C6-4DF3-BD24-43E567714027}|DentalAppointment.Tests\\DentalAppointmentTests.csproj|solutionrelative:dentalappointment.tests\\servicetests\\appointmentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\services\\authenticationservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\services\\authenticationservice\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\services\\implementations\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\services\\implementations\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\repositories\\implementations\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\repositories\\implementations\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\dtos\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\repositories\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\repositories\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\services\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|c:\\users\\lejla toska\\onedrive\\desktop\\software testing and analysis\\dentalappointment\\dentalappointment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6F3B984-04DA-4500-97C8-852A1FA23340}|DentalAppointment\\DentalAppointment.csproj|solutionrelative:dentalappointment\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 518,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpgradeLog.htm",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\UpgradeLog.htm",
+              "RelativeDocumentMoniker": "UpgradeLog.htm",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\UpgradeLog.htm",
+              "RelativeToolTip": "UpgradeLog.htm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-11T13:53:02.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "DentalAppointment.Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\Usings.cs",
+              "RelativeToolTip": "DentalAppointment.Tests\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:53:02.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\WeatherForecast.cs",
+              "RelativeToolTip": "DentalAppointment\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:53:01.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DentalAppointment.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DentalAppointment.csproj.user",
+              "RelativeDocumentMoniker": "DentalAppointment\\DentalAppointment.csproj.user",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DentalAppointment.csproj.user",
+              "RelativeToolTip": "DentalAppointment\\DentalAppointment.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-11T13:53:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Program.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Program.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Program.cs",
+              "RelativeToolTip": "DentalAppointment\\Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DentalAppointment.csproj",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DentalAppointment.csproj",
+              "RelativeDocumentMoniker": "DentalAppointment\\DentalAppointment.csproj",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DentalAppointment.csproj",
+              "RelativeToolTip": "DentalAppointment\\DentalAppointment.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T02:48:08.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\ControllerTests\\AppointmentControllerTests.cs",
+              "RelativeDocumentMoniker": "DentalAppointment.Tests\\ControllerTests\\AppointmentControllerTests.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\ControllerTests\\AppointmentControllerTests.cs",
+              "RelativeToolTip": "DentalAppointment.Tests\\ControllerTests\\AppointmentControllerTests.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwGYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:07.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "DentalAppointment\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DTOs\\AuthenticationRequestDTO.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\DTOs\\AuthenticationRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DTOs\\AuthenticationRequestDTO.cs",
+              "RelativeToolTip": "DentalAppointment\\DTOs\\AuthenticationRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DTOs\\AuthenticationResponseDTO.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\DTOs\\AuthenticationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DTOs\\AuthenticationResponseDTO.cs",
+              "RelativeToolTip": "DentalAppointment\\DTOs\\AuthenticationResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "DentalAppointment\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAewFgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\RepositoryTests\\AppointmentRepositoryTests.cs",
+              "RelativeDocumentMoniker": "DentalAppointment.Tests\\RepositoryTests\\AppointmentRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\RepositoryTests\\AppointmentRepositoryTests.cs",
+              "RelativeToolTip": "DentalAppointment.Tests\\RepositoryTests\\AppointmentRepositoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\ControllerTests\\AppointmentControllerTests.cs",
+              "RelativeDocumentMoniker": "DentalAppointment.Tests\\ControllerTests\\AppointmentControllerTests.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\ControllerTests\\AppointmentControllerTests.cs",
+              "RelativeToolTip": "DentalAppointment.Tests\\ControllerTests\\AppointmentControllerTests.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAADgv3gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\ServiceTests\\AppointmentServiceTest.cs",
+              "RelativeDocumentMoniker": "DentalAppointment.Tests\\ServiceTests\\AppointmentServiceTest.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment.Tests\\ServiceTests\\AppointmentServiceTest.cs",
+              "RelativeToolTip": "DentalAppointment.Tests\\ServiceTests\\AppointmentServiceTest.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Services\\AuthenticationService\\TokenService.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Services\\AuthenticationService\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Services\\AuthenticationService\\TokenService.cs",
+              "RelativeToolTip": "DentalAppointment\\Services\\AuthenticationService\\TokenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DentalAppointment\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Services\\Implementations\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Services\\Implementations\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Services\\Implementations\\AppointmentService.cs",
+              "RelativeToolTip": "DentalAppointment\\Services\\Implementations\\AppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Repositories\\Implementations\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Repositories\\Implementations\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Repositories\\Implementations\\AppointmentRepository.cs",
+              "RelativeToolTip": "DentalAppointment\\Repositories\\Implementations\\AppointmentRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DTOs\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\DTOs\\AppointmentDTO.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DTOs\\AppointmentDTO.cs",
+              "RelativeToolTip": "DentalAppointment\\DTOs\\AppointmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Repositories\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Repositories\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Repositories\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "DentalAppointment\\Repositories\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Services\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Services\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "DentalAppointment\\Services\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DTOs\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\DTOs\\RegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\DTOs\\RegistrationDTO.cs",
+              "RelativeToolTip": "DentalAppointment\\DTOs\\RegistrationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DentalAppointment\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Lejla Toska\\OneDrive\\Desktop\\Software Testing and Analysis\\DentalAppointment\\DentalAppointment\\Models\\Appointment.cs",
+              "RelativeToolTip": "DentalAppointment\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T02:48:08.139Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
